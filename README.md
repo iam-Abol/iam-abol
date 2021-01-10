@@ -6,4 +6,7 @@ Also, I like to play around with adobe-y stuff. <br>
 •	Programming Languages: C++, C# <br>
 •	Framework/library/others:  Qt, Photoshop, Illustrator
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iam-Abol&show_icons=true&theme=gotham" alt="iam-Abol" />
 
