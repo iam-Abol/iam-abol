@@ -10,3 +10,4 @@ Also, I like to play around with adobe-y stuff. <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iam-Abol&show_icons=true&theme=algolia" alt="iam-Abol" />
 
+(https://github-readme-stats.vercel.app/api/wakatime?username=iam-abol)](https://github.com/anuraghazra/github-readme-stats)
