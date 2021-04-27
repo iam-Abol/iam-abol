@@ -7,5 +7,3 @@ Also, I like to play around with adobe-y stuff. <br>
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iam-Abol&show_icons=true&theme=algolia" alt="iam-Abol" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-Abol&layout=compact" alt="iam-Abol" /> </p>
-
